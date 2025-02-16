@@ -1,9 +1,9 @@
 # Operating System term project - Multithreading
-การสื่อสารเพื่อส่งไฟล์ระหว่าง Server-Client โดยแตกออกเป็น 10 thread เพื่อเพิ่มประสิทธิภาพและความเร็วในการส่งไฟล์ <br>
-ใช้ภาษา Java, Visual studio code
+Developed server-client communication for file transfers using multithreading(10) to enhance efficiency and speed. <br>
+Technologies used: Java, Visual studio code
 
-## จัดทำโดย
-นักศึกษาชั้นปีที่ 3 ภาคการศึกษาที่ 1/2567
+## Built by
+3rd-year computer science students, semester 1/2024
 1. นางสาวสุขุมาภรณ์ เหมือนวงศ์ธรรม
 2. นางสาวทยิดา มูลดำ
 3. นายธนภัทร รุจิชานันทกุล
