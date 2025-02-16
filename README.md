@@ -1,5 +1,6 @@
 # Operating System term project - Multithreading
-การสื่อสารเพื่อส่งไฟล์ระหว่าง Server-Client โดยแตกออกเป็น 10 thread เพื่อเพิ่มประสิทธิภาพและความเร็วในการส่งไฟล์
+การสื่อสารเพื่อส่งไฟล์ระหว่าง Server-Client โดยแตกออกเป็น 10 thread เพื่อเพิ่มประสิทธิภาพและความเร็วในการส่งไฟล์ <br>
+Technologies used: Java language, Visual studio code
 
 ## Built by
 นักศึกษาชั้นปีที่ 3 ภาคการศึกษาที่ 1/2567
