@@ -1,7 +1,7 @@
 # Operating System term project - Multithreading
 Developed server-client communication for file transfers using multithreading(10) to enhance efficiency and speed. <br>
 
-Technologies used: Java, Visual studio code
+Technologies used: Java language, Visual studio code
 
 ## Built by
 3rd-year computer science students, semester 1/2024
